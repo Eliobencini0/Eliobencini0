@@ -10,7 +10,7 @@ Three projects are public. Each one says what it fixes and how to start.
 |---|---|
 | Turn a weekly-changing web page into clean, checkable data | [promo-scraper-es](https://github.com/Eliobencini0/promo-scraper-es) |
 | See a fitness tracker built as an installable web app | [fitwell-portfolio](https://github.com/Eliobencini0/fitwell-portfolio) · [live demo](https://fitwell-portfolio.vercel.app) |
-| See a loyalty card system for small merchants | [loyalty-platform](https://github.com/Eliobencini0/loyalty-platform) |
+| See a loyalty card system for small merchants | [loyalty-platform](https://github.com/Eliobencini0/loyalty-platform) · [live page](https://loyalty-marketing.onrender.com) |
 
 ## Projects
 
